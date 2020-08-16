@@ -1,10 +1,12 @@
-<code>● HelloHello,有人在吗——</code>
+<code>HelloHello,有人在吗——</code>
 
-● Hello World——？？
-                                                                     
-<code> 你是？</code>
+<code>Hello World——？？</code>
+                   
+<div style="text-align:right;margin:0px auto 0px auto;">
+<code> 你是？</code></div>        
 
-● 这个通讯器真的能修好！！
+
+<code>这个通讯器真的能修好！！</code>
 
 ● 两个晚上！值得！
 
