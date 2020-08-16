@@ -1,8 +1,11 @@
-<code>HelloHello,有人在吗——</code>
 
-<code>Hello World——？？</code>
-                   
-<div style="text-align:right;margin:0px auto 0px auto;">
+<div style="text-align:left;margin:10px 10px 0px auto;">
+<code> Hello World——？？</code></div>  
+
+<div style="text-align:left;margin:10px 10px 0px auto;">
+<code> 有人在吗——</code></div>  
+
+<div style="text-align:right;margin:10px 10px 0px auto;">
 <code> 你是？</code></div>        
 
 
